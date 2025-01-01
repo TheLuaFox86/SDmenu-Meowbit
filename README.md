@@ -10,6 +10,6 @@ A micropython coded Menu for the meowbit by kittenbot To simplify the use of mul
 - Enjoy
 
 if you need help feal free to add a issue to this page
-use "Help" tag
+use "Help" label
 
-want to give feedback use "Feedback" Tag
+want to give feedback use "Feedback" label
