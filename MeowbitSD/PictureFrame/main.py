@@ -2,7 +2,7 @@ from meowbit import screen
 import os
 from time import sleep_ms
 os.chdir("pics")
-local pl = os.listdir()
+pl = os.listdir()
 screen.sync = 0
 while 1:
 	try:
